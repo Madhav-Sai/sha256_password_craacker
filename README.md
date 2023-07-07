@@ -3,7 +3,7 @@
 ```markdown
 # SHA256 Password Cracker
 
-![SHA256 Password Cracker](sha256_cracker_logo.png)
+![SHA256 Password Cracker]
 
 ## Overview
 
@@ -20,19 +20,13 @@ by pip install pwntools
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/sha256-password-cracker.git
+git clone https://github.com/Madhav-Sai/sha256_password_cracker.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
 cd sha256-password-cracker
-```
-
-3. Install the required libraries:
-
-```shell
-pip install -r requirements.txt
 ```
 
 ## Usage
